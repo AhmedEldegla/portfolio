@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmedeldegla.github.io/portfolio/sitemap.xml
